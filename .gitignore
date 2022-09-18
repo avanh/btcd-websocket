@@ -1,0 +1,7 @@
+.devcontainer
+.env
+.eslintrc.json
+.vs
+.vscode
+node_modules
+rpc.cert

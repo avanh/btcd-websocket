@@ -1,0 +1,15 @@
+exports.dataOptions = [
+  'getblockcount',
+  'getbestblockhash',
+  'getconnectioncount',
+  'getdifficulty',
+  'getblockchaininfo',
+  'getmininginfo',
+  'getpeerinfo',
+  'getrawmempool',
+  'getblock',
+  'getblockhash',
+  'getrawtransaction',
+  'decoderawtransaction',
+  'getnetworkhashps',
+];
